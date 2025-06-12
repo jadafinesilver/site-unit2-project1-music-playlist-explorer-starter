@@ -1,0 +1,299 @@
+{
+    "playlists": [
+        { 
+            "id":1,
+            "name":"r&b/soul",
+            "author":"Jada",
+            "likes":30,
+            "img": "https://cdn-images.dzcdn.net/images/cover/04a5526b7b94c6e2d617ade762ddf5dc/0x1900-000000-80-0-0.jpg",
+            "songs": [
+                {
+                    "id":1,
+                    "name":"On & On",
+                    "artist":"Erykah Badu",
+                    "duration":"3:45",
+                    "img": "https://www.slantmagazine.com/wp-content/uploads/2010/03/newamerykahparttwo.jpg"
+                },
+                {
+                    "id":2,
+                    "name":"Tyrone",
+                    "artist":"Erykah Badu",
+                    "duration":"4:08",
+                    "img": "https://www.slantmagazine.com/wp-content/uploads/2010/03/newamerykahparttwo.jpg"
+                },
+                {
+                    "id":3,
+                    "name":"Bust Your Windows",
+                    "artist":"Jazmine Sullivan",
+                    "duration":"2:59",
+                    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwugyZC3a3DqKLPcLQ8pJGd17erKWpF8xd2A&s"
+                },
+                {
+                    "id":4,
+                    "name":"Killing Me Softly With His Song",
+                    "artist":"Fugees, Ms.Lauryn Hill",
+                    "duration":"2:59",
+                    "img": "https://cdn-images.dzcdn.net/images/cover/04a5526b7b94c6e2d617ade762ddf5dc/0x1900-000000-80-0-0.jpg"
+                }
+            ]
+        },
+        { 
+            "id":2,
+            "name":"90s rap",
+            "author":"Jada",
+            "likes":42,
+            "img": "https://www.hotnewhiphop.com/i/v1/282x282-contain-81-auto/gallery/19/63/1459456319_da735c2d17075aabaaf892cf0fab058c.jpg",
+            "songs": [
+                {
+                    "id":1,
+                    "name":"California Love",
+                    "artist":"2pac",
+                    "duration":"4:21",
+                    "img": "https://upload.wikimedia.org/wikipedia/en/0/08/E_1999_Eternal_cover.jpg"
+                },
+                {
+                    "id":2,
+                    "name":"Foe Tha Love of $",
+                    "artist":"Bone Thugs-N-Harmony",
+                    "duration":"5:01",
+                    "img": "https://m.media-amazon.com/images/I/81LEd5N7eLL._UF1000,1000_QL80_.jpg"
+                },
+                {
+                    "id":3,
+                    "name":"Ol'English",
+                    "artist":"The Game",
+                    "duration":"2:43",
+                    "img": "https://cdn-images.dzcdn.net/images/cover/0dcd6bd0f9083c67355999fdf2defd4c/0x1900-000000-80-0-0.jpg"
+                }
+            ]
+
+        },
+        { 
+            "id":3,
+            "name":"summerrrrr",
+            "author":"Jada",
+            "likes":22,
+            "img": "https://upload.wikimedia.org/wikipedia/en/8/8e/Never_Lose_Me_Artwork.jpg",
+            "songs": [
+                {
+                    "id": 1,
+                    "name": "right now",
+                    "artist": "Megan Thee Stallion",
+                    "duration": "3:12",
+                    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Megan_Thee_Stallion_MEGAN_ACT_II.jpg/250px-Megan_Thee_Stallion_MEGAN_ACT_II.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "first",
+                    "artist": "Kentheman",
+                    "duration": "2:58",
+                    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROXBREdMyjd_8B4EPiv50Br7mzY6NfDwrr_A&s"
+                },
+                {
+                    "id": 3,
+                    "name": "conceited",
+                    "artist": "Flo Milli",
+                    "duration": "2:45",
+                    "img": "https://upload.wikimedia.org/wikipedia/en/8/8e/Never_Lose_Me_Artwork.jpg"
+                },
+                {
+                    "id": 4,
+                    "name": "sunday service",
+                    "artist": "Latto",
+                    "duration": "3:30",
+                    "img": "https://static.wixstatic.com/media/bcdf54_0c87e6574349469680b398245c202d1e~mv2.jpg/v1/fill/w_568,h_568,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/bcdf54_0c87e6574349469680b398245c202d1e~mv2.jpg"
+                }
+            ]
+        },
+        { 
+            "id":4,
+            "name":"oldies",
+            "author":"Jada",
+            "likes":53,
+            "img": "https://images.squarespace-cdn.com/content/v1/56066cf9e4b0ffbc0fe62db1/9082df12-b9b5-484f-b500-167ecc2d3d10/a2772598857_10.jpg",
+            "songs": [
+                {
+                    "id": 1,
+                    "name": "let's stay together",
+                    "artist": "Al Green",
+                    "duration": "3:18",
+                    "img": "https://upload.wikimedia.org/wikipedia/en/0/0e/Letsstaytogether_cover.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "billie jean",
+                    "artist": "Michael Jackson",
+                    "duration": "4:54",
+                    "img": "https://e.snmc.io/i/1200/s/d368744216afb5a3b28eb219994f85be/11486295"
+                },
+                {
+                    "id": 3,
+                    "name": "hot in herre",
+                    "artist": "Nelly",
+                    "duration": "3:49",
+                    "img": "https://live.staticflickr.com/3020/2551917149_b70ee86bc6_z.jpg"
+                },
+                {
+                    "id": 4,
+                    "name": "kiss me thru the phone",
+                    "artist": "Soulja Boy",
+                    "duration": "4:01",
+                    "img": "https://cdn-images.dzcdn.net/images/cover/65aa844bb82a67272629b58dbc38a8b9/1900x1900-000000-80-0-0.jpg"
+                }
+            ]
+
+        },
+        { 
+            "id":5,
+            "name":"strictly mitski",
+            "author":"Jada",
+            "likes":12,
+            "img": "https://i.scdn.co/image/ab6761610000e5eb4bdb3888818637acb71c4a13",
+            "songs": [
+                {
+                    "id": 1,
+                    "name": "Your Best American Girl",
+                    "artist": "Mitski",
+                    "duration": "4:14",
+                    "img": "https://f4.bcbits.com/img/a2337835939_10.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "Nobody",
+                    "artist": "Mitski",
+                    "duration": "3:42",
+                    "img": "https://i.ebayimg.com/images/g/xKAAAOSwO-hksbzX/s-l1200.jpg"
+                },
+                {
+                    "id": 3,
+                    "name": "First Love / Late Spring",
+                    "artist": "Mitski",
+                    "duration": "4:09",
+                    "img": "https://f4.bcbits.com/img/a0571397198_10.jpg"
+                },
+                {
+                    "id": 4,
+                    "name": "Washing Machine Heart",
+                    "artist": "Mitski",
+                    "duration": "2:20",
+                    "img": "https://f4.bcbits.com/img/a3943051749_16.jpg"
+                }
+            ]
+        },
+        { 
+            "id":6,
+            "name":"2016",
+            "author":"Jada",
+            "likes":79,
+            "img": "https://mixtapemonkey.com/artistpic/319.jpg",
+            "songs": [
+                {
+                    "id": 1,
+                    "name": "Formation",
+                    "artist": "Beyoncé",
+                    "duration": "3:26",
+                    "img": "https://upload.wikimedia.org/wikipedia/en/5/53/Beyonce_-_Lemonade_%28Official_Album_Cover%29.png"
+                    
+                },
+                {
+                    "id": 2,
+                    "name": "Broccoli",
+                    "artist": "DRAM feat. Lil Yachty",
+                    "duration": "3:36",
+                    "img": "https://www.billboard.com/wp-content/uploads/media/Big-Baby-DRAM-Cover-2016-billboard-1240.jpg?w=1024"
+                },
+                {
+                    "id": 3,
+                    "name": "Panda",
+                    "artist": "Desiigner",
+                    "duration": "3:36",
+                    "img": "https://upload.wikimedia.org/wikipedia/en/e/e7/DesiignerPanda.jpg"
+                },
+                {
+                    "id": 4,
+                    "name": "Needed Me",
+                    "artist": "Rihanna",
+                    "duration": "3:11",
+                    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmx-FIG5kYY8m34dMLiel9C-A-yrENQc28rw&s"
+                }
+            ]
+
+        },
+        { 
+            "id":7,
+            "name":"sunday cleaning",
+            "author":"Jada",
+            "likes":19,
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwugyZC3a3DqKLPcLQ8pJGd17erKWpF8xd2A&s",
+            "songs": [
+                {
+                    "id": 1,
+                    "name": "Need U Bad",
+                    "artist": "Jazmine Sullivan",
+                    "duration": "4:14",
+                    "img": "https://i.scdn.co/image/ab67616100005174e85d25b9286d6815ddb0d82a"
+                },
+                {
+                    "id": 2,
+                    "name": "Bust Your Windows",
+                    "artist": "Jazmine Sullivan",
+                    "duration": "4:23",
+                    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwugyZC3a3DqKLPcLQ8pJGd17erKWpF8xd2A&s"
+                },
+                {
+                    "id": 3,
+                    "name": "Lions, Tigers & Bears",
+                    "artist": "Jazmine Sullivan",
+                    "duration": "3:42",
+                    "img": "https://i.scdn.co/image/ab67616100005174e85d25b9286d6815ddb0d82a"
+                },
+                {
+                    "id": 4,
+                    "name": "Pick Up Your Feelings",
+                    "artist": "Jazmine Sullivan",
+                    "duration": "3:43",
+                    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHyv-hPnbee6D2pPMNFl-aR6sUn7S2opMkwA&s"
+                }
+            ]
+        },
+        { 
+            "id":8,
+            "name":"on repeat",
+            "author":"Jada",
+            "likes":34,
+            "img": "https://i.scdn.co/image/ab67616d0000b2731c1c33c63cdbcb5788975a93",
+            "songs": [
+                {
+                    "id": 1,
+                    "name": "Girl",
+                    "artist": "The Internet",
+                    "duration": "4:14",
+                    "img": "https://m.media-amazon.com/images/I/71Pex2YxmrL._UF1000,1000_QL80_.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "Come Over",
+                    "artist": "The Internet",
+                    "duration": "3:49",
+                    "img": "https://i.scdn.co/image/ab67616100005174c32c5dcda378eb561f81b1f9"
+                },
+                {
+                    "id": 3,
+                    "name": "Roll (Burbank Funk)",
+                    "artist": "The Internet",
+                    "duration": "4:00",
+                    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM2m1G3-_8au8YCU7oLbpW76181sCRc8qtLA&s"
+                },
+                {
+                    "id": 4,
+                    "name": "Special Affair",
+                    "artist": "The Internet",
+                    "duration": "3:44",
+                    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYSammrGxn_L4EpoXBUnxaXJXG5akwPmfycQ&s"
+                }
+            ]
+
+        }
+        
+    ]
+}

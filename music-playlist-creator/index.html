@@ -8,20 +8,138 @@
     <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
     
     <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Quicksand&display=swap" rel="stylesheet">
+
 </head>
 <body>
-    <header>
-        <!-- Your header content here -->
+    <header class="section">
+       <h1>Music Playlist Explorer</h1>
+       <div class="navbar">
+        <div class="nav-item">
+             <a href="index.html">All </a>
+           
+        </div>
+         <div class="nav-item">
+            
+             <a href="feature.html">Featured </a>
+        </div>
+        
+       </div>
     </header>
 
-    <main> 
-        <!-- Your main content here -->
+    <main class="section"> 
+        <div class="content-container" id="content-container">
+            <div class="content-box" data-id="1">
+                <img src="https://cdn-images.dzcdn.net/images/cover/04a5526b7b94c6e2d617ade762ddf5dc/0x1900-000000-80-0-0.jpg" alt="Playlist Icon" class="icon">
+                <div class="info">
+                    <h4>Playlist</h4>
+                    <p></p>
+                    <div class="like-row">
+                        <span class="heart-icon">&#x2665;</span> 
+                        <span class="like-count"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="content-box"  data-id="2">
+                <img src="https://www.hotnewhiphop.com/i/v1/282x282-contain-81-auto/gallery/19/63/1459456319_da735c2d17075aabaaf892cf0fab058c.jpg" alt="Playlist Icon" class="icon">
+                <div class="info">
+                    <h4>Playlist</h4>
+                    <p></p>
+                    <div class="like-row">
+                        <span class="heart-icon">&#x2665;</span> 
+                        <span class="like-count"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="content-box" data-id="3">
+                <img src="https://upload.wikimedia.org/wikipedia/en/8/8e/Never_Lose_Me_Artwork.jpg" alt="Playlist Icon" class="icon">
+                 <div class="info">
+                    <h4>Playlist</h4>
+                    <p></p>
+                    <div class="like-row">
+                        <span class="heart-icon">&#x2665;</span> 
+                        <span class="like-count"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="content-box"  data-id="4">
+                <img src="https://images.squarespace-cdn.com/content/v1/56066cf9e4b0ffbc0fe62db1/9082df12-b9b5-484f-b500-167ecc2d3d10/a2772598857_10.jpg" alt="Playlist Icon" class="icon">
+                 <div class="info">
+                    <h4>Playlist</h4>
+                    <p></p>
+                    <div class="like-row">
+                        <span class="heart-icon">&#x2665;</span> 
+                        <span class="like-count"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="content-box"  data-id="5">
+                <img src="https://i.scdn.co/image/ab6761610000e5eb4bdb3888818637acb71c4a13" alt="Playlist Icon" class="icon">
+                 <div class="info">
+                    <h4>Playlist</h4>
+                    <p></p>
+                    <div class="like-row">
+                        <span class="heart-icon">&#x2665;</span> 
+                        <span class="like-count"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="content-box"  data-id="6">
+                <img src="https://mixtapemonkey.com/artistpic/319.jpg" alt="Playlist Icon" class="icon">
+                 <div class="info">
+                    <h4>Playlist</h4>
+                    <p></p>
+                    <div class="like-row">
+                        <span class="heart-icon">&#x2665;</span> 
+                        <span class="like-count"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="content-box"  data-id="7">
+                <img src="https://i.scdn.co/image/ab67616d0000b273ebcc9144c41ae7d42efe6d94" alt="Playlist Icon" class="icon">
+                 <div class="info">
+                    <h4>Playlist</h4>
+                    <p></p>
+                    <div class="like-row">
+                        <span class="heart-icon">&#x2665;</span> 
+                        <span class="like-count"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="content-box"  data-id="8">
+                <img src="https://i.scdn.co/image/ab67616d0000b2731c1c33c63cdbcb5788975a93" alt="Playlist Icon" class="icon">
+                 <div class="info">
+                    <h4>Playlist</h4>
+                    <p></p>
+                    <div class="like-row">
+                        <span class="heart-icon">&#x2665;</span> 
+                        <span class="like-count"></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Modal for details -->
+        <div id="playlist-modal" class="modal">
+            <div class="modal-content">
+                <div class="top-info">
+                    <span class="close-button">&times;</span>
+                    <img id="modal-art" src="" alt="Cover art" />
+                    <div class="top-text">
+                        <h3 id="modal-name"></h3>
+                        <p id="modal-author"></p>
+                        <div class="shuffle" id="shuffleButton">
+                            <p>shuffle</p>
+                        </div>
+                    </div>
+                </div>
+                <ul id="modal-songs"></ul>
+            </div>
+        </div>
+
+
     </main>
 
-    <footer>
-        <!-- Your footer content here -->
-    </footer>
-    <script src="data/data.js"></script>
+    <footer class="section"></footer>
     <script src="script.js"></script>
 </body>
 </html>
