@@ -147,15 +147,15 @@ Deployed Application (**required**): [Music Playlist Explorer Deployed Site](ADD
 
 * Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
 
-Add your response here
+I felt kind of lost on Monday (during labs and prject sessions, not lecutre) but the Tuesday lecture was extremely helpful !
 
 * If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
   
-Add your response here
+I would like to start adding the stretch features, they seem very cool so that is a goal moving forward.
 
 * Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 
-Add your response here
+Unlike last week, I was not fully done when I presented my demo so I would like for that to be the last time that happened. I also am inspired by my peers who implemented additional features that were not explicitly mentioned in the stretch features. 
 
 ### Open-source libraries used
 
@@ -163,4 +163,4 @@ Add your response here
 
 ### Shout out
 
-Give a shout out to somebody from your cohort that especially helped you during your project. This can be a fellow peer, instructor, TA, mentor, etc.
+Shouout to the instructional team ! :)
